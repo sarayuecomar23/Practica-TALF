@@ -1,3 +1,3 @@
 # Practica-TALF
-Alumno: Santiago Atencia Jiménez
+Alumno: 
 Curso: 2ºA Computadores
